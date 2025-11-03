@@ -1,5 +1,6 @@
 #### Class Practice
 <h4><a href="https://youtube.com/playlist?list=PLSHyB4s0vJ9qHoAe879otXjUj5pibzsn0&feature=shared" target="_blank">Link to YouTube recordings</a></h4>
+
 This is how the repository is laid out:
 - The `practice` folder contains instructions without any answers.
 - The `solutions` folder contains the same code but with all the answers.
